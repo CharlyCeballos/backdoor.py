@@ -1,0 +1,4 @@
+Comando para crear un archivo exe
+  pyinstaller --onefile -w backdoor.py
+
+De las carpetas resultantes ir a DIST
